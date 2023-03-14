@@ -1,0 +1,14 @@
+file:
+  /usr/local/go/src/github.com/Jonathan-Zollinger/testFile:
+    exists: true
+    mode: "0600"
+    size: 2655
+    owner: jonathan
+    group: jonathan
+    filetype: file
+    contains: []
+  sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 
+service:
+  novell-tomcat9-service.service:
+    enabled: false
+    running: false
